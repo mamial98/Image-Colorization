@@ -44,4 +44,4 @@ Prediction and Real Image respectively\
 <img src="Conv Results/pred3.png" >
 <img src="Conv Results/truth3.png" >\
 <img src="Conv Results/pred4.png" >
-<img src="Conv Results/truth4.png" >\
+<img src="Conv Results/truth4.png" >
