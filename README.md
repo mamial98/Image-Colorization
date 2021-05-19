@@ -32,16 +32,3 @@ pip install opencv-contrib-python
 You also need to change "path" variable in the code to path of the dataset 
 
 
-# CNN Image-Colorization
-This cnn improvement works in this data set and done for studying purposes it is highly overfitted because of that not useful for any real application                                                      
-
-
-Prediction and Real Image respectively\
-<img src="Conv Results/pred1.png" >
-<img src="Conv Results/truth1.png" >\
-<img src="Conv Results/pred2.png" >
-<img src="Conv Results/truth2.png" >\
-<img src="Conv Results/pred3.png" >
-<img src="Conv Results/truth3.png" >\
-<img src="Conv Results/pred4.png" >
-<img src="Conv Results/truth4.png" >
